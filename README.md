@@ -1,1 +1,1 @@
-# AVRG_core
+# core
