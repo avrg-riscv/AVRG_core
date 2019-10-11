@@ -1,10 +1,11 @@
 # Core
 
+<pre>
     ___ _   _____  _____    ________________________
    / _ | | / / _ \/ ___/    _ ___/  __ \_  ___/  _ \
   / __ | |/ / , _/ (_ /   / /__ / /_/ /  /   /  __/
  /_/ |_|___/_/|_|\___/    \___/ \____//_/    \___/ 
- 
+</pre>
 
 A RISC-V 64-bit core implementing the I (base instruction set), M (integer multiplication and division) and A (atomic Instructions) (RV64IMA).
 
